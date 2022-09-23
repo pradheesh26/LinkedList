@@ -1,7 +1,6 @@
 # LinkedList
-This is a repository contains Linked List Operations
 
-Definition :
+# Definition :
 
 Linked List can be defined as collection of objects called nodes that are randomly stored in the memory.
 
@@ -10,7 +9,7 @@ A node contains two fields i.e. data stored at that particular address and the p
 The last node of the list contains pointer to the null.
 
 
-Uses of LinkedList:
+# Uses of LinkedList:
 
 The list is not required to be contiguously present in the memory. The node can reside any where in the memory and linked together to make a list. This achieves optimized utilization of space.
 
